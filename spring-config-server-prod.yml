@@ -1,0 +1,6 @@
+backend-app: 
+  profile: I'm working on architect cloud native app
+  tsst:
+    server: eurekaclient
+    uri: /eureka/client
+    port: 8083
