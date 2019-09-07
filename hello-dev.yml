@@ -1,1 +1,2 @@
-message: message dev
+message:
+  key: message dev
