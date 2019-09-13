@@ -1,2 +1,3 @@
 message:
   key: message test default
+order: http://localhost:8787
