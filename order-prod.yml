@@ -1,1 +1,2 @@
 sleepTime: 20000
+config-server: config-service:8786
